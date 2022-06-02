@@ -11,7 +11,7 @@ h2{
     font-size: 45px;
 }
 
-.table-header{
+th{
     padding: 10px;
     font-size: 40px;
 }
@@ -29,7 +29,7 @@ h2{
     color: aliceblue;
 }
 
-.table-content{
+td{
     background-color: #424250;
     font-size: 25px;
     padding: 15px;
